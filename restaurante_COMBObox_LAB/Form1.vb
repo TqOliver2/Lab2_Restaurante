@@ -53,7 +53,7 @@
         PRECIOARROZ = Val(Mid(cboARROCES.Text, POSICION + 1))
 
         'SUMAMOS AL TOTAL EL PRECIO DEL ARROZ Y LE DAMOS FORMATO
-        TOTAL = Val(txtTOTAL.Text) + PRECIOARROZ
+        TOTAL = Val(txtTOTAL.Text) + PRECIOARROZ - PRECIOARROZ * 0.07
         txtTOTAL.Text = Format(TOTAL, "##0.00")
 
     End Sub
@@ -74,7 +74,7 @@
         PRECIOMENESTRA = Val(Mid(cboMENESTRAS.Text, POSICION + 1))
 
         'SUMAMOS AL TOTAL EL PRECIO DEL MENESTRA Y LE DAMOS FORMATO
-        TOTAL = Val(txtTOTAL.Text) + PRECIOMENESTRA
+        TOTAL = Val(txtTOTAL.Text) + PRECIOMENESTRA - PRECIOMENESTRA * 0.07
         txtTOTAL.Text = Format(TOTAL, "##0.00")
 
     End Sub
@@ -95,7 +95,7 @@
         PRECIOCARNES = Val(Mid(cboCARNES.Text, POSICION + 1))
 
         'SUMAMOS AL TOTAL EL PRECIO DEL CARNES Y LE DAMOS FORMATO
-        TOTAL = Val(txtTOTAL.Text) + PRECIOCARNES
+        TOTAL = Val(txtTOTAL.Text) + PRECIOCARNES - PRECIOCARNES * 0.07
         txtTOTAL.Text = Format(TOTAL, "##0.00")
 
     End Sub
