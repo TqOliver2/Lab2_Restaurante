@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj": {}
+    "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\Lab2\\Lab2_Restaurante\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj": {
+    "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\Lab2\\Lab2_Restaurante\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj",
+        "projectUniqueName": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\Lab2\\Lab2_Restaurante\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj",
         "projectName": "restaurante_COMBObox_LAB",
-        "projectPath": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj",
+        "projectPath": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\Lab2\\Lab2_Restaurante\\restaurante_COMBObox_LAB\\restaurante_COMBObox_LAB.vbproj",
         "packagesPath": "C:\\Users\\HP_15Tq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\obj\\",
+        "outputPath": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\Lab2\\Lab2_Restaurante\\restaurante_COMBObox_LAB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

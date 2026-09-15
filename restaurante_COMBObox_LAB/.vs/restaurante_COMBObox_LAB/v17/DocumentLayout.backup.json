@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.vb [Design]",
+              "Title": "Form1.vb [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
-              "ToolTip": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\Form1.vb [Design]",
-              "RelativeToolTip": "Form1.vb [Design]",
+              "ToolTip": "C:\\Users\\HP_15Tq\\Desktop\\Desarrollo de Software VIII\\restaurante_COMBObox_LAB\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-09-15T15:39:07.348Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }
