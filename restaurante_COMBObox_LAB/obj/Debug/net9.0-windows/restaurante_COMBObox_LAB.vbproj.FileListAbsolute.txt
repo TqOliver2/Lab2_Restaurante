@@ -1,0 +1,17 @@
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.exe
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.deps.json
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.runtimeconfig.json
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.dll
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.pdb
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.Form1.resources
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.vbproj.GenerateResource.cache
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.AssemblyInfoInputs.cache
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.AssemblyInfo.vb
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.vbproj.CoreCompileInputs.cache
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.sourcelink.json
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.dll
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\refint\restaurante_COMBObox_LAB.dll
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.pdb
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.genruntimeconfig.cache
+C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\ref\restaurante_COMBObox_LAB.dll
