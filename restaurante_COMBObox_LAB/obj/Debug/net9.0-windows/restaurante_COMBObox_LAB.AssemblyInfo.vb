@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("restaurante_COMBObox_LAB"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02542bc7adf61f0b0395da832d6ff3baf205d411"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea9e48b55e4dc71eee0fca297ecbaa364fb648e1"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("restaurante_COMBObox_LAB"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("restaurante_COMBObox_LAB"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
