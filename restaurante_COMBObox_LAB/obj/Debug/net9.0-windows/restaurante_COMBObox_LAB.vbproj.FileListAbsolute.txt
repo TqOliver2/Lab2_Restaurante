@@ -15,3 +15,21 @@ C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-window
 C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.pdb
 C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.genruntimeconfig.cache
 C:\vb proyects\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\ref\restaurante_COMBObox_LAB.dll
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.exe
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.deps.json
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.runtimeconfig.json
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.dll
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\bin\Debug\net9.0-windows\restaurante_COMBObox_LAB.pdb
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.Form1.resources
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.vbproj.GenerateResource.cache
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.AssemblyInfoInputs.cache
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.AssemblyInfo.vb
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.vbproj.CoreCompileInputs.cache
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.sourcelink.json
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.dll
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\refint\restaurante_COMBObox_LAB.dll
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.pdb
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.genruntimeconfig.cache
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\ref\restaurante_COMBObox_LAB.dll
+C:\Users\HP_15Tq\Desktop\Desarrollo de Software VIII\Lab2\Lab2_Restaurante\restaurante_COMBObox_LAB\obj\Debug\net9.0-windows\restaurante_COMBObox_LAB.Resources.resources
